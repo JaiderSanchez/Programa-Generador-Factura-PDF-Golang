@@ -1,1 +1,2 @@
 En este repositorio desarrollaré el programa generador de factura en Golang.
+Nombre de usuario: JaiderSanchez. Correo electrónico: jaiderfabiansd@gmail.com
